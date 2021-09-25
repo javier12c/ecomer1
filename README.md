@@ -1,0 +1,2 @@
+# ecomer
+ El objetivo de este proyecto tiene la finalidad de brindar un servicio que va enfocada a aquellas pequeñas y medianas negocios que fueron afectados por la pandemia del covid-19 ya que ocasiono una migración tecnológica y genero bajas ventas en los establecimiento y negocios físicos, la propuesta ayuda a que estos negocios puedan tener presencia en el mercado digital (online) nuestro proyecto se enfocara en los comercios más comunes como lo es una tienda de ropa en línea (e-commerce).
